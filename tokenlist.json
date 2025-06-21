@@ -1,0 +1,21 @@
+{
+  "name": "Flash USDT Token List",
+  "logoURI": "https://raw.githubusercontent.com/gisac2074/flash-usdt-tokenlist/main/logos/0x93e19292770Dd710BeB02FbFF4D82f09C15079Dd.png",
+  "keywords": ["usdt", "flash", "bep20", "stablecoin"],
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x93e19292770Dd710BeB02FbFF4D82f09C15079Dd",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gisac2074/flash-usdt-tokenlist/main/logos/0x93e19292770Dd710BeB02FbFF4D82f09C15079Dd.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
+            
